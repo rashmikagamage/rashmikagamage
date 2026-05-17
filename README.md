@@ -22,11 +22,5 @@ With a foundation in **competitive programming**, I bring strong algorithmic thi
 
 ---
 
-### 📫 Reach Me
-- 💼 LinkedIn: https://www.linkedin.com/in/rashmikagamage/  
-- 📧 Email: rashmikamadushan321@gmail.com  
-
----
-
 ### ⚡ Perspective
 I care about writing code that not only works—but scales, lasts, and enables teams to move faster.
