@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Rashmika
 
-🚀 **Staff Software Engineer** focused on designing and delivering scalable, high-impact systems. I specialize in turning complex product and engineering challenges into robust, maintainable solutions.
+🚀 **Software Engineer** focused on designing and delivering scalable, high-impact systems. I specialize in turning complex product and engineering challenges into robust, maintainable solutions.
 
 With a foundation in **competitive programming**, I bring strong algorithmic thinking and a performance-first mindset to system design and implementation.
 
